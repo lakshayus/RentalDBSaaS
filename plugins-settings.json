@@ -1,0 +1,18 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "5d80c5c9-2a4e-4ac1-afd2-5dd92888e767",
+        "name": "REST API",
+        "designId": "804c5067-58c6-49d7-bd6d-d53fba238b2e",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "cd33cf33-e29f-4e8c-ac26-b997fe507ce7": {
+        "id": "9b53f9e9-229e-4d38-8f40-c7035e5bf899",
+        "name": "Xano",
+        "designId": "804c5067-58c6-49d7-bd6d-d53fba238b2e",
+        "pluginId": "cd33cf33-e29f-4e8c-ac26-b997fe507ce7",
+        "publicData": {
+            "domain": "x8ki-letl-twmt.n7.xano.io"
+        }
+    }
+}
